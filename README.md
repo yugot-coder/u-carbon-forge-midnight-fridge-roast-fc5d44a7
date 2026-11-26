@@ -1,8 +1,8 @@
 # Midnight Fridge Roast
 
-[![make.fun entry](https://img.shields.io/badge/make.fun-Midnight%20Fridge%20Roast-blue)](https://github.com/yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7/blob/main/LICENSE)
-[![Repo: yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7](https://img.shields.io/badge/repo-yugot--coder%2Fu--carbon--forge--midnight--fridge--roast--fc5d44a7-green)](https://github.com/yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![make.fun · u-carbon-forge-midnight-fridge-roast-fc5d44a7](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![rank](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7/rank.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
+[![reward](https://make.fun/badge/u-carbon-forge-midnight-fridge-roast-fc5d44a7/yugot-coder/u-carbon-forge-midnight-fridge-roast-fc5d44a7/reward.svg)](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7?utm_source=github&utm_medium=readme&utm_campaign=u-carbon-forge-midnight-fridge-roast-fc5d44a7)
 
 One-line roast of a smart fridge that refuses to open after midnight, entered
 in the [Midnight Fridge Roast](https://make.fun/c/u-carbon-forge-midnight-fridge-roast-fc5d44a7)
